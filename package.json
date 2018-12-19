@@ -49,11 +49,7 @@
     "git diff tool"
   ],
   "dependencies": {
-    "chalk": "^2.3.2",
-    "diff": "^3.5.0",
-    "loglevel": "^1.6.1",
-    "shelljs": "^0.8.1",
-    "shelljs.exec": "^1.1.7"
+    "diff": "^3.5.0"
   },
   "devDependencies": {
     "chai": "^4.1.2",
